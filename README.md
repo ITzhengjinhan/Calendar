@@ -1,13 +1,3 @@
----
-title: 基于Vue的日历组件
-date: 2023-7-11 10:00:00
-categories:
-  - vue
-tags:
-  - vue
-  - Calendar
----
-
 背景：Ant Design Vue 官网中有 Calendar 日历组件，但提供的示例不支持多选，禁选功能
 
 自定义封装组件
